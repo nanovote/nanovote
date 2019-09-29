@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Tailwind`,
-    description: `Gatsby starter styled with Tailwind`,
-    author: `@taylorbryant`
+    title: `nano.vote`,
+    description: ``,
+    author: `@nanovote`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,7 +15,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#4dc0b5`,
         display: `minimal-ui`,
-        icon: `src/images/tailwind-icon.png`
+        icon: `src/images/logo.svg`
       }
     },
     `gatsby-plugin-postcss`,
